@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chatBotas/static/css/main.94b14672.chunk.css",
+    "main.js": "/chatBotas/static/js/main.ea2985e9.chunk.js",
+    "main.js.map": "/chatBotas/static/js/main.ea2985e9.chunk.js.map",
+    "runtime-main.js": "/chatBotas/static/js/runtime-main.4d2d0e75.js",
+    "runtime-main.js.map": "/chatBotas/static/js/runtime-main.4d2d0e75.js.map",
+    "static/css/2.31461e4f.chunk.css": "/chatBotas/static/css/2.31461e4f.chunk.css",
+    "static/js/2.e1458e8d.chunk.js": "/chatBotas/static/js/2.e1458e8d.chunk.js",
+    "static/js/2.e1458e8d.chunk.js.map": "/chatBotas/static/js/2.e1458e8d.chunk.js.map",
+    "static/js/3.78094000.chunk.js": "/chatBotas/static/js/3.78094000.chunk.js",
+    "static/js/3.78094000.chunk.js.map": "/chatBotas/static/js/3.78094000.chunk.js.map",
+    "index.html": "/chatBotas/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/chatBotas/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.94b14672.chunk.css.map": "/chatBotas/static/css/main.94b14672.chunk.css.map",
+    "static/js/2.e1458e8d.chunk.js.LICENSE.txt": "/chatBotas/static/js/2.e1458e8d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/chatBotas/static/media/Candy Shop Black.d19852a3.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d2d0e75.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.e1458e8d.chunk.js",
+    "static/css/main.94b14672.chunk.css",
+    "static/js/main.ea2985e9.chunk.js"
+  ]
+}
